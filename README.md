@@ -1,3 +1,7 @@
+The constant forking and modifying is one of the reasons I stopped using metalsmith.
+
+---
+
 [![Build Status](https://travis-ci.org/woodyrew/metalsmith-json-to-files.svg)](https://travis-ci.org/woodyrew/metalsmith-json-to-files)
 
 # Metalsmith json to files
